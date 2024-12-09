@@ -10,4 +10,4 @@ show_call_box: false
 
 # Sonam AI
 
-*Engineering the future, one algorithm at a time*
+*Engineering for the future, one algorithm at a time*
