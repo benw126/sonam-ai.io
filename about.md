@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Welcome to **Sonam AI**! We are a technology-focused company passionate about **software development** and **quantitative research**. Our goal is to use innovation and data to create practical solutions that make a difference and deliver meaningful results.
+Welcome to **Sonam AI**! We are a technology-focused start-up passionate about **software development** and **quantitative research**. Our goal is to use innovation and data to create practical solutions that make a difference and deliver meaningful results.
 
 ### What We Do
 
