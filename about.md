@@ -13,12 +13,6 @@ Welcome to **Sonam AI**! We are a technology-focused company passionate about **
 
 - **Quantitative Research**: At Sonam AI, we apply mathematical models, machine learning, and data analysis to tackle challenges in industries like finance, technology, and more. Our work is focused on providing valuable insights and helping clients make informed decisions.
 
-### Why Choose Us?
-
-- **Curiosity-Driven**: We are always learning and exploring new technologies to better serve our clients.
-- **Dedicated Team**: Our team includes developers, data scientists, and researchers who are committed to solving real-world problems.
-- **Collaborative Approach**: We take the time to understand your needs and work with you to create solutions that align with your goals.
-
 ### Our Vision
 
 To contribute to a world where technology and data empower businesses and individuals to solve challenges and achieve their potential.
