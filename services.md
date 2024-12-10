@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Our Services
 
-We specialize in creating **AI-driven software** and conducting **quantitative research** to solve real-world challenges
+We specialize in conducting **quantitative research** and creating **AI-driven softwares** to solve real-world challenges
